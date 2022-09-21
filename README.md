@@ -1,1 +1,1 @@
-# Zaneta-by-PolishSea
+# JavaScript-Gdansk-RsSchool
